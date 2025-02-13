@@ -2,7 +2,7 @@ Project Overview
 This project analyzes aviation incidents and accidents using Statistics Canada’s Air Transportation dataset. By leveraging Power BI, we visualize key trends in incident frequency, severity, geographic distribution, and causes of injuries to enhance aviation safety insights.
 
 Data Preparation
-I conducted the initial data cleaning to ensure accuracy and consistency before visualization. This involved:
+I conducted the initial data cleaning using Excel to ensure accuracy and consistency before visualization. This involved:
 - Removing duplicates and irrelevant columns.
 - Handling missing values and standardizing date formats.
 - Transforming categorical data for better analysis in Power BI.
